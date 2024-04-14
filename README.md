@@ -20,5 +20,8 @@
 # -----------------GO--------------------
 ## ==============================================
 
-#### .First : npm create vite@latest
-#### .Second : npm install react-icons
+# Those are the steps to create a project with redux-toolkit : 
+
+#### .First : ``` npm create vite@latest ```
+#### .Second : ``` npm install react-icons ```
+#### .Third : ``` npm install @reduxjs/toolkit ```
