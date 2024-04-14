@@ -1,4 +1,4 @@
-## THIS IS A REPOSITORY CONTAINS SOME METHOD OF E-COMMERCE
+## THIS IS A REPOSITORY CONTAINS SOME METHOD OF E-COMMERCE WITH REDUX-TOOLKIT
 
 ### CONTAINING :
 
@@ -16,9 +16,9 @@
 
 ## SO LET'S GO !!!
 
-## ==================================================================
-# ------------------------------GO-----------------------------------
-## ==================================================================
+## ==============================================
+# -----------------GO--------------------
+## ==============================================
 
 #### .First : npm create vite@latest
 #### .Second : npm install react-icons
